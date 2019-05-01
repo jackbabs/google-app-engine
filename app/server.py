@@ -8,8 +8,8 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-model_file_url = 'https://drive.google.com/uc?export=download&id=1QUI5T2cvg2GxDuM8mvxOsBAs6aLnYNRa'
-model_file_name = 'avengers-model.pkl'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1QUI5T2cvg2GxDuM8mvxOsBAs6aLnYNRa'
+export_file_name = 'avengers-model.pkl'
 classes = ['Black Widow',
   'Bruce Banner',
   'Bucky',
